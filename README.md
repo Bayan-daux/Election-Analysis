@@ -1,5 +1,4 @@
-**Colorado Board of Elections in Election Audit   
-**
+***Colorado Board of Elections in Election Audit***
 
 **Overview**
 
